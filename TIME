@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style>
+  table,th,td{
+  border: 2px solid black;
+  border-collapse: collapse;
+  }
+  
+  </style>
+  <body>
+  <h1>Time table</h1>
+  <table style="width:100%">
+  <tr>
+      <th>period</th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <td>12.40-1.40PM</td>
+      <th>5</th>
+      <th>6</th>
+      <th>7</th>
+      <th>8</th>
+  </tr>
+  <tr>
+  <th>Day</th>
+  <td>9.00-9.50AM</td>
+  <td>9.50-10.40AM</td>
+  <td>11.00-11.50AM</td>
+  <td>11.50-12.40AM</td>
+  <th rowspan>LUNCH</th>
+  <td>1.40-2.30PM</td>
+  <td>2.30-3.20PM</td>
+  <td>3.20-4.10PM</td>
+  <td>4.10-5.00PM</td>
+  </tr>
+  <tr>
+     <th>MON</th>
+     <td>p&s</td>
+     <td colspan="3">2nd CSE B-OS LAB</td>
+     <td></td>
+     <td>ADSA</td>
+     <td>SE</td>
+     <td>MEFA</td>
+     <td>CRT/hon's/min's</td>
+  </tr>
+  <tr>
+     <th>TUE</th>
+     <td>ADSA</td>
+     <td>os</td>
+     <td>p&s</td>
+     <td>MEFA</td>
+     <td></td>
+     <td>SE</td>
+     <td>OS</td>
+     <td>ADSAA</td>
+     <td>CRT/hon's/min's</td>
+  </tr>
+  <tr>
+     <th>WED</th>
+     <td>MEFA</td>
+     <td>OS</td>
+     <td>ADSAA</td>
+     <td>SE</td>
+     <td></td>
+     <td>p&s</td>
+     <td colspan="3">2nd CSE-B ADSAA LAB</td>
+  </tr>
+   <tr>
+     <th>THU</th>
+     <td>SE</td>
+     <td>ADSAA</td>
+     <td>MEFA</td>
+     <td>P&S</td>
+     <td></td>
+     <td>OS</td>
+     <td COLSPAN="2">2ND CSE-B-DT&I</td>
+     <td>CRT/hon's/min's</td>
+  </tr>
+  
+  </table>
+  </body>
+  </html>
